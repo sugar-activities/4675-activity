@@ -1,0 +1,560 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-05 22:11-0400\n"
+"PO-Revision-Date: 2014-01-20 00:37+0200\n"
+"Last-Translator: AlanJAS <alanjas@hotmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#. TRANS: "name" option from activity.info file
+#. TRANS: Please translate Visual Match as Dimensions
+#: VisualMatchActivity.py:634 VisualMatchActivity.py:666 game.py:983
+#: visualmatch.py:33
+msgid "Visual Match"
+msgstr "Dimensiones"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid "a pattern-matching game"
+msgstr "un juego de coincidencia de patrones"
+
+#: VisualMatchActivity.py:59 VisualMatchActivity.py:441
+#: VisualMatchActivity.py:646
+msgid "beginner"
+msgstr "principiante"
+
+#: VisualMatchActivity.py:59 VisualMatchActivity.py:449
+#: VisualMatchActivity.py:647
+msgid "intermediate"
+msgstr "Intermedio"
+
+#: VisualMatchActivity.py:59 VisualMatchActivity.py:457
+#: VisualMatchActivity.py:648
+msgid "expert"
+msgstr "experto"
+
+#: VisualMatchActivity.py:70 visualmatch.py:47
+msgid "New pattern game"
+msgstr "Nuevo juego de diseños"
+
+#: VisualMatchActivity.py:71 visualmatch.py:51
+msgid "New number game"
+msgstr "Nuevo juego de números"
+
+#: VisualMatchActivity.py:72 visualmatch.py:55
+msgid "New word game"
+msgstr "Nuevo juego de palabras"
+
+#: VisualMatchActivity.py:73 VisualMatchActivity.py:331
+msgid "Import custom cards"
+msgstr "Importar tarjetas personalizadas"
+
+#: VisualMatchActivity.py:75
+msgid "Dimensions"
+msgstr "Dimensiones"
+
+#. TRANS: The prime number version of the dimensions game
+#: VisualMatchActivity.py:77
+msgid "Prime Dimensions"
+msgstr "Dimensiones Primos"
+
+#. TRANS: The word version of the dimensions game
+#: VisualMatchActivity.py:79
+msgid "Word Dimensions"
+msgstr "Dimensiones Palabras"
+
+#: VisualMatchActivity.py:80
+msgid "15 seconds"
+msgstr "15 segundos"
+
+#: VisualMatchActivity.py:80
+msgid "30 seconds"
+msgstr "30 segundos"
+
+#: VisualMatchActivity.py:80
+msgid "1 minute"
+msgstr "1 minuto"
+
+#: VisualMatchActivity.py:80
+msgid "2 minutes"
+msgstr "2 minutos"
+
+#: VisualMatchActivity.py:80
+msgid "5 minutes"
+msgstr "5 minutos"
+
+# Should verb be left in indefinite form?
+#: VisualMatchActivity.py:135
+msgid "Play with the computer."
+msgstr "Jugar con la computadora."
+
+#: VisualMatchActivity.py:140
+msgid "Stop playing with the computer."
+msgstr "Parar de jugar con la computadora."
+
+#: VisualMatchActivity.py:224 visualmatch.py:173
+msgid "mouse"
+msgstr "ratón"
+
+#: VisualMatchActivity.py:225 visualmatch.py:173
+msgid "cat"
+msgstr "gato"
+
+#: VisualMatchActivity.py:226 visualmatch.py:173
+msgid "dog"
+msgstr "perro"
+
+#: VisualMatchActivity.py:227 visualmatch.py:174
+msgid "cheese"
+msgstr "queso"
+
+#: VisualMatchActivity.py:228 visualmatch.py:174
+msgid "apple"
+msgstr "manzana"
+
+#: VisualMatchActivity.py:229 visualmatch.py:174
+msgid "bread"
+msgstr "pan"
+
+#: VisualMatchActivity.py:230 visualmatch.py:175
+msgid "moon"
+msgstr "luna"
+
+#: VisualMatchActivity.py:231 visualmatch.py:175
+msgid "sun"
+msgstr "sol"
+
+#: VisualMatchActivity.py:232 visualmatch.py:175
+msgid "earth"
+msgstr "tierra"
+
+#: VisualMatchActivity.py:303 VisualMatchActivity.py:635
+msgid "Export scores to clipboard"
+msgstr "Exportar resultados al portapapeles"
+
+#: VisualMatchActivity.py:327 VisualMatchActivity.py:629
+msgid "Edit word lists."
+msgstr "Editar listas de palabras."
+
+# This is for a game mode and should be capitalized.
+#: VisualMatchActivity.py:338 VisualMatchActivity.py:653
+msgid "product"
+msgstr "Producto"
+
+#: VisualMatchActivity.py:346 VisualMatchActivity.py:654
+msgid "Roman numerals"
+msgstr "Números romanos"
+
+#: VisualMatchActivity.py:354 VisualMatchActivity.py:655
+msgid "word"
+msgstr "Palabras"
+
+#: VisualMatchActivity.py:362 VisualMatchActivity.py:656 visualmatch.py:105
+msgid "Chinese"
+msgstr "Chino"
+
+#: VisualMatchActivity.py:370 VisualMatchActivity.py:657 visualmatch.py:109
+msgid "Mayan"
+msgstr "Maya"
+
+#: VisualMatchActivity.py:378 VisualMatchActivity.py:658 visualmatch.py:113
+msgid "Quipu"
+msgstr "Quipu"
+
+#: VisualMatchActivity.py:389 VisualMatchActivity.py:659
+msgid "hash marks"
+msgstr "Barras"
+
+#: VisualMatchActivity.py:397 VisualMatchActivity.py:660
+msgid "dots in a circle"
+msgstr "Puntos en círculos"
+
+#: VisualMatchActivity.py:405 VisualMatchActivity.py:661
+msgid "points on a star"
+msgstr "Puntas de estrellas"
+
+#: VisualMatchActivity.py:413 VisualMatchActivity.py:662
+msgid "dice"
+msgstr "Dados"
+
+#: VisualMatchActivity.py:421 VisualMatchActivity.py:663
+msgid "dots in a line"
+msgstr "Puntos en líneas"
+
+# Should verb be left in indefinite form?
+#: VisualMatchActivity.py:429 VisualMatchActivity.py:644
+msgid "Play with the computer"
+msgstr "Jugar con la computadora"
+
+#: VisualMatchActivity.py:466
+msgid "Find a match."
+msgstr "Emparejar."
+
+#: VisualMatchActivity.py:469 game.py:838 game.py:952
+msgid "cards"
+msgstr "tarjetas"
+
+#: VisualMatchActivity.py:472 game.py:965 game.py:967
+msgid "matches"
+msgstr "partidos"
+
+#: VisualMatchActivity.py:599
+msgid "A new game is loading."
+msgstr "Un nuevo juego se está cargando."
+
+#: VisualMatchActivity.py:628 VisualMatchActivity.py:669
+msgid "Tools"
+msgstr "Herramientas"
+
+#: VisualMatchActivity.py:630
+msgid "Import image cards"
+msgstr "Importar trajeta de imágenes"
+
+#: VisualMatchActivity.py:639 VisualMatchActivity.py:667
+msgid "Game"
+msgstr "Juego"
+
+#: VisualMatchActivity.py:645
+msgid "robot pause time"
+msgstr "tiempo de pausa del robot"
+
+#: VisualMatchActivity.py:652 VisualMatchActivity.py:668
+msgid "Numbers"
+msgstr "Números"
+
+#: VisualMatchActivity.py:670
+msgid "number of cards remaining in deck"
+msgstr "número de cartas que quedan en el mazo"
+
+#: VisualMatchActivity.py:671
+msgid "number of matches"
+msgstr "número de emparejado"
+
+#: VisualMatchActivity.py:672
+msgid "elapsed time"
+msgstr "tiempo transcurrido"
+
+#: constants.py:71
+msgid "five"
+msgstr "cinco"
+
+#: constants.py:71
+msgid "seven"
+msgstr "siete"
+
+#: constants.py:71
+msgid "eleven"
+msgstr "once"
+
+#: constants.py:71
+msgid "ten"
+msgstr "diez"
+
+#: constants.py:72
+msgid "fourteen"
+msgstr "catorce"
+
+#: constants.py:72
+msgid "fifteen"
+msgstr "quince"
+
+#: constants.py:72
+msgid "twenty two"
+msgstr "veintidós"
+
+#: constants.py:73
+msgid "twenty one"
+msgstr "veintiuno"
+
+#: constants.py:73
+msgid "thirty three"
+msgstr "treinta y tres"
+
+#: game.py:356
+msgid "Edit the custom cards."
+msgstr "Editar tarjetas personalizadas."
+
+#: game.py:384
+msgid "Edit the word cards."
+msgstr "Editar las tarjetas de palabras."
+
+#: game.py:752
+msgid "Game over"
+msgstr "Fin del juego"
+
+#: game.py:765
+msgid "unsolvable"
+msgstr "Sin solución"
+
+#: game.py:796
+msgid "New record"
+msgstr "Nuevo récord"
+
+#: game.py:958 game.py:960
+msgid "match"
+msgstr "partido"
+
+#: game.py:1203
+msgid "New custom game"
+msgstr "Nuevo juego a medida"
+
+#: helpbutton.py:47
+msgid "Help"
+msgstr "Ayuda"
+
+#: visualmatch.py:34
+msgid "Click on cards to create sets of three."
+msgstr "Haga clic en las tarjetas para crear grupos de tres."
+
+#: visualmatch.py:38
+msgid "Toggle level"
+msgstr "Cambiar nivel"
+
+#: visualmatch.py:64
+msgid "Robot on/off"
+msgstr "Encender/Apagar Robot"
+
+#: visualmatch.py:68
+msgid "90 sec."
+msgstr "90 seg."
+
+#: visualmatch.py:72
+msgid "60 sec."
+msgstr "60 seg."
+
+#: visualmatch.py:76
+msgid "45 sec."
+msgstr "45 seg."
+
+#: visualmatch.py:80
+msgid "30 sec."
+msgstr "30 seg."
+
+#: visualmatch.py:84
+msgid "15 sec."
+msgstr "15 seg."
+
+#: visualmatch.py:93
+msgid "Product"
+msgstr "Producto"
+
+#: visualmatch.py:97
+msgid "Roman"
+msgstr "Romano"
+
+#: visualmatch.py:101
+msgid "Word"
+msgstr "Palabra"
+
+#: visualmatch.py:117
+msgid "Hash"
+msgstr "Barras"
+
+#: visualmatch.py:121
+msgid "Dice"
+msgstr "Dados"
+
+#: visualmatch.py:125
+msgid "Dots"
+msgstr "Puntos"
+
+#: visualmatch.py:129
+msgid "Star"
+msgstr "Estrella"
+
+#: visualmatch.py:133
+msgid "Lines"
+msgstr "Líneas"
+
+#~ msgid "Set difficulty level."
+#~ msgstr "Elegir nivel de dificultad."
+
+#~ msgid "Describe your activity"
+#~ msgstr "Describa su actividad"
+
+#~ msgid "Keep"
+#~ msgstr "Guardar"
+
+#~ msgid "Untitled"
+#~ msgstr "Sin título"
+
+#~ msgid "Description:"
+#~ msgstr "Descripción:"
+
+#~ msgid "Tags:"
+#~ msgstr "Etiquetas:"
+
+#~ msgid "cards remaining"
+#~ msgstr "cartas restantes"
+
+#~ msgid "seconds"
+#~ msgstr "segundos"
+
+#~ msgid "Write in Journal"
+#~ msgstr "Escribe en el Diario"
+
+#~ msgid "Project"
+#~ msgstr "Proyecto"

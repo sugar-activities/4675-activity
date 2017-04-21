@@ -1,0 +1,390 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-30 00:33-0400\n"
+"PO-Revision-Date: 2010-04-10 16:28+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.3\n"
+
+#. TRANS: "name" option from activity.info file
+#. TRANS: Please translate Visual Match as Dimensions
+#: VisualMatchActivity.py:627 VisualMatchActivity.py:659 game.py:983
+#: visualmatch.py:33
+msgid "Visual Match"
+msgstr "Visual Match"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid "a pattern-matching game"
+msgstr ""
+
+#: VisualMatchActivity.py:59 VisualMatchActivity.py:434
+#: VisualMatchActivity.py:639
+msgid "beginner"
+msgstr "nybörjare"
+
+#: VisualMatchActivity.py:59 VisualMatchActivity.py:442
+#: VisualMatchActivity.py:640
+msgid "intermediate"
+msgstr ""
+
+#: VisualMatchActivity.py:59 VisualMatchActivity.py:450
+#: VisualMatchActivity.py:641
+msgid "expert"
+msgstr "expert"
+
+#: VisualMatchActivity.py:70 visualmatch.py:47
+msgid "New pattern game"
+msgstr "Nytt mönsterspel"
+
+#: VisualMatchActivity.py:71 visualmatch.py:51
+msgid "New number game"
+msgstr "Nytt nummerspel"
+
+#: VisualMatchActivity.py:72 visualmatch.py:55
+msgid "New word game"
+msgstr "Nytt ordspel"
+
+#: VisualMatchActivity.py:73 VisualMatchActivity.py:324
+msgid "Import custom cards"
+msgstr ""
+
+#: VisualMatchActivity.py:128
+msgid "Play with the computer."
+msgstr "Spela med datorn."
+
+#: VisualMatchActivity.py:133
+msgid "Stop playing with the computer."
+msgstr "Sluta spela med datorn."
+
+#: VisualMatchActivity.py:217 visualmatch.py:173
+msgid "mouse"
+msgstr "mus"
+
+#: VisualMatchActivity.py:218 visualmatch.py:173
+msgid "cat"
+msgstr "katt"
+
+#: VisualMatchActivity.py:219 visualmatch.py:173
+msgid "dog"
+msgstr "hund"
+
+#: VisualMatchActivity.py:220 visualmatch.py:174
+msgid "cheese"
+msgstr "ost"
+
+#: VisualMatchActivity.py:221 visualmatch.py:174
+msgid "apple"
+msgstr "äpple"
+
+#: VisualMatchActivity.py:222 visualmatch.py:174
+msgid "bread"
+msgstr "bröd"
+
+#: VisualMatchActivity.py:223 visualmatch.py:175
+msgid "moon"
+msgstr "måne"
+
+#: VisualMatchActivity.py:224 visualmatch.py:175
+msgid "sun"
+msgstr "sol"
+
+#: VisualMatchActivity.py:225 visualmatch.py:175
+msgid "earth"
+msgstr "jorden"
+
+#: VisualMatchActivity.py:296 VisualMatchActivity.py:628
+msgid "Export scores to clipboard"
+msgstr ""
+
+#: VisualMatchActivity.py:320 VisualMatchActivity.py:622
+msgid "Edit word lists."
+msgstr "Redigera ordlistor."
+
+#: VisualMatchActivity.py:331 VisualMatchActivity.py:646
+msgid "product"
+msgstr "produkt"
+
+#: VisualMatchActivity.py:339 VisualMatchActivity.py:647
+msgid "Roman numerals"
+msgstr "Romerska siffror"
+
+#: VisualMatchActivity.py:347 VisualMatchActivity.py:648
+msgid "word"
+msgstr "ord"
+
+#: VisualMatchActivity.py:355 VisualMatchActivity.py:649 visualmatch.py:105
+msgid "Chinese"
+msgstr "Kines"
+
+#: VisualMatchActivity.py:363 VisualMatchActivity.py:650 visualmatch.py:109
+msgid "Mayan"
+msgstr "Maya"
+
+#: VisualMatchActivity.py:371 VisualMatchActivity.py:651 visualmatch.py:113
+msgid "Quipu"
+msgstr ""
+
+#: VisualMatchActivity.py:382 VisualMatchActivity.py:652
+#, fuzzy
+msgid "hash marks"
+msgstr "gradbeteckningar"
+
+#: VisualMatchActivity.py:390 VisualMatchActivity.py:653
+msgid "dots in a circle"
+msgstr "punkter i en cirkel"
+
+#: VisualMatchActivity.py:398 VisualMatchActivity.py:654
+msgid "points on a star"
+msgstr "punkter på en stjärna"
+
+#: VisualMatchActivity.py:406 VisualMatchActivity.py:655
+msgid "dice"
+msgstr "tärning"
+
+#: VisualMatchActivity.py:414 VisualMatchActivity.py:656
+msgid "dots in a line"
+msgstr "punkter på en linje"
+
+#: VisualMatchActivity.py:422 VisualMatchActivity.py:637
+#, fuzzy
+msgid "Play with the computer"
+msgstr "Spela med datorn."
+
+#: VisualMatchActivity.py:459
+msgid "Find a match."
+msgstr "Hitta en passande."
+
+#: VisualMatchActivity.py:462 game.py:838 game.py:952
+msgid "cards"
+msgstr "kort"
+
+#: VisualMatchActivity.py:465 game.py:965 game.py:967
+msgid "matches"
+msgstr "matcher"
+
+#: VisualMatchActivity.py:592
+msgid "A new game is loading."
+msgstr ""
+
+#: VisualMatchActivity.py:621 VisualMatchActivity.py:662
+msgid "Tools"
+msgstr "Verktyg"
+
+#: VisualMatchActivity.py:623
+msgid "Import image cards"
+msgstr ""
+
+#: VisualMatchActivity.py:632 VisualMatchActivity.py:660
+msgid "Game"
+msgstr "Spel"
+
+#: VisualMatchActivity.py:638
+msgid "robot pause time"
+msgstr ""
+
+#: VisualMatchActivity.py:645 VisualMatchActivity.py:661
+msgid "Numbers"
+msgstr "Nummer"
+
+#: VisualMatchActivity.py:663
+msgid "number of cards remaining in deck"
+msgstr ""
+
+#: VisualMatchActivity.py:664
+msgid "number of matches"
+msgstr ""
+
+#: VisualMatchActivity.py:665
+msgid "elapsed time"
+msgstr ""
+
+#: constants.py:71
+msgid "five"
+msgstr "fem"
+
+#: constants.py:71
+msgid "seven"
+msgstr "sju"
+
+#: constants.py:71
+msgid "eleven"
+msgstr "elva"
+
+#: constants.py:71
+msgid "ten"
+msgstr "tio"
+
+#: constants.py:72
+msgid "fourteen"
+msgstr "fjorton"
+
+#: constants.py:72
+msgid "fifteen"
+msgstr "femton"
+
+#: constants.py:72
+msgid "twenty two"
+msgstr "tjugotvå"
+
+#: constants.py:73
+msgid "twenty one"
+msgstr "tjugoett"
+
+#: constants.py:73
+msgid "thirty three"
+msgstr "trettiotre"
+
+#: game.py:356
+msgid "Edit the custom cards."
+msgstr ""
+
+#: game.py:384
+msgid "Edit the word cards."
+msgstr "Redigera ordkorten."
+
+#: game.py:752
+msgid "Game over"
+msgstr "Spelet slut"
+
+#: game.py:765
+msgid "unsolvable"
+msgstr ""
+
+#: game.py:796
+msgid "New record"
+msgstr "Nytt rekord"
+
+#: game.py:958 game.py:960
+msgid "match"
+msgstr "match"
+
+#: game.py:1203
+msgid "New custom game"
+msgstr ""
+
+#: helpbutton.py:47
+msgid "Help"
+msgstr ""
+
+#: visualmatch.py:34
+msgid "Click on cards to create sets of three."
+msgstr "Klicka på korten för att skapa grupper om tre."
+
+#: visualmatch.py:38
+msgid "Toggle level"
+msgstr "Växla nivå"
+
+#: visualmatch.py:64
+msgid "Robot on/off"
+msgstr "Robot på/av"
+
+#: visualmatch.py:68
+msgid "90 sec."
+msgstr "90 sek."
+
+#: visualmatch.py:72
+msgid "60 sec."
+msgstr "60 sek."
+
+#: visualmatch.py:76
+msgid "45 sec."
+msgstr "45 sek."
+
+#: visualmatch.py:80
+msgid "30 sec."
+msgstr "30 sek."
+
+#: visualmatch.py:84
+msgid "15 sec."
+msgstr "15 sek."
+
+#: visualmatch.py:93
+msgid "Product"
+msgstr "Product"
+
+#: visualmatch.py:97
+msgid "Roman"
+msgstr "Romare"
+
+#: visualmatch.py:101
+msgid "Word"
+msgstr "Ord"
+
+#: visualmatch.py:117
+#, fuzzy
+msgid "Hash"
+msgstr "Blanda"
+
+#: visualmatch.py:121
+msgid "Dice"
+msgstr "Tärning"
+
+#: visualmatch.py:125
+msgid "Dots"
+msgstr "Punkter"
+
+#: visualmatch.py:129
+msgid "Star"
+msgstr "Stjärna"
+
+#: visualmatch.py:133
+msgid "Lines"
+msgstr "Linjer"
+
+#~ msgid "Set difficulty level."
+#~ msgstr "Välj svårighetsgrad."
+
+#~ msgid "Describe your activity"
+#~ msgstr "Beskriv din aktivitet"
+
+#~ msgid "Keep"
+#~ msgstr "Behåll"
+
+#~ msgid "Untitled"
+#~ msgstr "Namnlös"
+
+#~ msgid "Description:"
+#~ msgstr "Beskrivning:"
+
+#~ msgid "Tags:"
+#~ msgstr "Taggar:"

@@ -1,0 +1,413 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-30 00:33-0400\n"
+"PO-Revision-Date: 2011-10-15 04:38+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#. TRANS: "name" option from activity.info file
+#. TRANS: Please translate Visual Match as Dimensions
+#: VisualMatchActivity.py:627 VisualMatchActivity.py:659 game.py:983
+#: visualmatch.py:33
+msgid "Visual Match"
+msgstr "Optische Übereinstimmung"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid "a pattern-matching game"
+msgstr ""
+
+#: VisualMatchActivity.py:59 VisualMatchActivity.py:434
+#: VisualMatchActivity.py:639
+msgid "beginner"
+msgstr "Anfänger"
+
+#: VisualMatchActivity.py:59 VisualMatchActivity.py:442
+#: VisualMatchActivity.py:640
+msgid "intermediate"
+msgstr "Fortgeschritten"
+
+#: VisualMatchActivity.py:59 VisualMatchActivity.py:450
+#: VisualMatchActivity.py:641
+msgid "expert"
+msgstr "Experte"
+
+#: VisualMatchActivity.py:70 visualmatch.py:47
+msgid "New pattern game"
+msgstr "Neues Musterspiel"
+
+#: VisualMatchActivity.py:71 visualmatch.py:51
+msgid "New number game"
+msgstr "Neues Zahlenspiel"
+
+#: VisualMatchActivity.py:72 visualmatch.py:55
+msgid "New word game"
+msgstr "Neues Wortspiel"
+
+#: VisualMatchActivity.py:73 VisualMatchActivity.py:324
+msgid "Import custom cards"
+msgstr "Eigene Karten einfügen"
+
+#: VisualMatchActivity.py:128
+msgid "Play with the computer."
+msgstr "Spiele mit dem Computer."
+
+#: VisualMatchActivity.py:133
+msgid "Stop playing with the computer."
+msgstr "Höre auf, mit dem Computer zu spielen."
+
+#: VisualMatchActivity.py:217 visualmatch.py:173
+msgid "mouse"
+msgstr "Maus"
+
+#: VisualMatchActivity.py:218 visualmatch.py:173
+msgid "cat"
+msgstr "Katze"
+
+#: VisualMatchActivity.py:219 visualmatch.py:173
+msgid "dog"
+msgstr "Hund"
+
+#: VisualMatchActivity.py:220 visualmatch.py:174
+msgid "cheese"
+msgstr "Käse"
+
+#: VisualMatchActivity.py:221 visualmatch.py:174
+msgid "apple"
+msgstr "Apfel"
+
+#: VisualMatchActivity.py:222 visualmatch.py:174
+msgid "bread"
+msgstr "Brot"
+
+#: VisualMatchActivity.py:223 visualmatch.py:175
+msgid "moon"
+msgstr "Mond"
+
+#: VisualMatchActivity.py:224 visualmatch.py:175
+msgid "sun"
+msgstr "Sonne"
+
+#: VisualMatchActivity.py:225 visualmatch.py:175
+msgid "earth"
+msgstr "Erde"
+
+#: VisualMatchActivity.py:296 VisualMatchActivity.py:628
+msgid "Export scores to clipboard"
+msgstr ""
+
+#: VisualMatchActivity.py:320 VisualMatchActivity.py:622
+msgid "Edit word lists."
+msgstr "Bearbeite die Wörterlisten."
+
+#: VisualMatchActivity.py:331 VisualMatchActivity.py:646
+msgid "product"
+msgstr "Produkt"
+
+#: VisualMatchActivity.py:339 VisualMatchActivity.py:647
+msgid "Roman numerals"
+msgstr "Römische Zahlen"
+
+#: VisualMatchActivity.py:347 VisualMatchActivity.py:648
+msgid "word"
+msgstr "Wort"
+
+#: VisualMatchActivity.py:355 VisualMatchActivity.py:649 visualmatch.py:105
+msgid "Chinese"
+msgstr "Chinesisch"
+
+#: VisualMatchActivity.py:363 VisualMatchActivity.py:650 visualmatch.py:109
+msgid "Mayan"
+msgstr "Maya"
+
+#: VisualMatchActivity.py:371 VisualMatchActivity.py:651 visualmatch.py:113
+msgid "Quipu"
+msgstr "Quipu"
+
+#: VisualMatchActivity.py:382 VisualMatchActivity.py:652
+msgid "hash marks"
+msgstr "Rautensymbole"
+
+#: VisualMatchActivity.py:390 VisualMatchActivity.py:653
+msgid "dots in a circle"
+msgstr "Punkte in einem Kreis"
+
+#: VisualMatchActivity.py:398 VisualMatchActivity.py:654
+msgid "points on a star"
+msgstr "Punkte auf einem Stern"
+
+#: VisualMatchActivity.py:406 VisualMatchActivity.py:655
+msgid "dice"
+msgstr "Würfel"
+
+#: VisualMatchActivity.py:414 VisualMatchActivity.py:656
+msgid "dots in a line"
+msgstr "Punkte auf einer Linie"
+
+#: VisualMatchActivity.py:422 VisualMatchActivity.py:637
+msgid "Play with the computer"
+msgstr "Spiele mit dem Computer"
+
+#: VisualMatchActivity.py:459
+msgid "Find a match."
+msgstr "Finde eine Übereinstimmung."
+
+#: VisualMatchActivity.py:462 game.py:838 game.py:952
+msgid "cards"
+msgstr "Karten"
+
+#: VisualMatchActivity.py:465 game.py:965 game.py:967
+msgid "matches"
+msgstr "Paarungen"
+
+#: VisualMatchActivity.py:592
+msgid "A new game is loading."
+msgstr ""
+
+#: VisualMatchActivity.py:621 VisualMatchActivity.py:662
+msgid "Tools"
+msgstr "Werkzeuge"
+
+#: VisualMatchActivity.py:623
+msgid "Import image cards"
+msgstr ""
+
+#: VisualMatchActivity.py:632 VisualMatchActivity.py:660
+msgid "Game"
+msgstr "Spiel"
+
+#: VisualMatchActivity.py:638
+msgid "robot pause time"
+msgstr ""
+
+#: VisualMatchActivity.py:645 VisualMatchActivity.py:661
+msgid "Numbers"
+msgstr "Zahlen"
+
+#: VisualMatchActivity.py:663
+msgid "number of cards remaining in deck"
+msgstr ""
+
+#: VisualMatchActivity.py:664
+msgid "number of matches"
+msgstr ""
+
+#: VisualMatchActivity.py:665
+msgid "elapsed time"
+msgstr ""
+
+#: constants.py:71
+msgid "five"
+msgstr "fünf"
+
+#: constants.py:71
+msgid "seven"
+msgstr "sieben"
+
+#: constants.py:71
+msgid "eleven"
+msgstr "elf"
+
+#: constants.py:71
+msgid "ten"
+msgstr "zehn"
+
+#: constants.py:72
+msgid "fourteen"
+msgstr "vierzehn"
+
+#: constants.py:72
+msgid "fifteen"
+msgstr "fünfzehn"
+
+#: constants.py:72
+msgid "twenty two"
+msgstr "zweiundzwanzig"
+
+#: constants.py:73
+msgid "twenty one"
+msgstr "einundzwanzig"
+
+#: constants.py:73
+msgid "thirty three"
+msgstr "dreiunddreißig"
+
+#: game.py:356
+msgid "Edit the custom cards."
+msgstr "Bearbeite die eigenen Karten."
+
+#: game.py:384
+msgid "Edit the word cards."
+msgstr "Bearbeite die Wort-Karten."
+
+#: game.py:752
+msgid "Game over"
+msgstr "Spiel vorbei"
+
+#: game.py:765
+msgid "unsolvable"
+msgstr "unlösbar"
+
+#: game.py:796
+msgid "New record"
+msgstr "Neuer Rekord"
+
+#: game.py:958 game.py:960
+msgid "match"
+msgstr "Paarung"
+
+#: game.py:1203
+msgid "New custom game"
+msgstr "Neues eigenes Spiel"
+
+#: helpbutton.py:47
+msgid "Help"
+msgstr ""
+
+#: visualmatch.py:34
+msgid "Click on cards to create sets of three."
+msgstr "Klicke auf Karten um Dreiergruppen zu erstellen."
+
+#: visualmatch.py:38
+msgid "Toggle level"
+msgstr "Level umschalten"
+
+#: visualmatch.py:64
+msgid "Robot on/off"
+msgstr "Automat an/aus"
+
+#: visualmatch.py:68
+msgid "90 sec."
+msgstr "90 Sekunden"
+
+#: visualmatch.py:72
+msgid "60 sec."
+msgstr "60 Sekunden"
+
+#: visualmatch.py:76
+msgid "45 sec."
+msgstr "45 Sekunden"
+
+#: visualmatch.py:80
+msgid "30 sec."
+msgstr "30 Sekunden"
+
+#: visualmatch.py:84
+msgid "15 sec."
+msgstr "15 Sekunden"
+
+#: visualmatch.py:93
+msgid "Product"
+msgstr "Produkt"
+
+#: visualmatch.py:97
+msgid "Roman"
+msgstr "Römisch"
+
+#: visualmatch.py:101
+msgid "Word"
+msgstr "Wort"
+
+#: visualmatch.py:117
+msgid "Hash"
+msgstr "Raute"
+
+#: visualmatch.py:121
+msgid "Dice"
+msgstr "Würfel"
+
+# Assuming these are dots on the cards to be matched.
+#: visualmatch.py:125
+msgid "Dots"
+msgstr "Punkte"
+
+# Shouldn't this be plural too?
+#: visualmatch.py:129
+msgid "Star"
+msgstr "Stern"
+
+#: visualmatch.py:133
+msgid "Lines"
+msgstr "Linien"
+
+#~ msgid "Set difficulty level."
+#~ msgstr "Wähle einen Schwierigkeitsgrad."
+
+#~ msgid "Describe your activity"
+#~ msgstr "Beschreibe Deine Aktivität"
+
+#~ msgid "Keep"
+#~ msgstr "Behalten"
+
+#~ msgid "Untitled"
+#~ msgstr "Ohne Titel"
+
+#~ msgid "Description:"
+#~ msgstr "Beschreibung:"
+
+#~ msgid "Tags:"
+#~ msgstr "Schlagwörter:"

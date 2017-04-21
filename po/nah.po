@@ -1,0 +1,375 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-05 22:11-0400\n"
+"PO-Revision-Date: 2014-05-20 19:10+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nah\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#. TRANS: "name" option from activity.info file
+#. TRANS: Please translate Visual Match as Dimensions
+#: VisualMatchActivity.py:634 VisualMatchActivity.py:666 game.py:983
+#: visualmatch.py:33
+msgid "Visual Match"
+msgstr "Moixnepanojkej"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid "a pattern-matching game"
+msgstr "Tekojnejnewilli se awiltilli"
+
+#: VisualMatchActivity.py:59 VisualMatchActivity.py:441
+#: VisualMatchActivity.py:646
+msgid "beginner"
+msgstr "Tsintiketl"
+
+#: VisualMatchActivity.py:59 VisualMatchActivity.py:449
+#: VisualMatchActivity.py:647
+msgid "intermediate"
+msgstr "Tlajkotipan"
+
+#: VisualMatchActivity.py:59 VisualMatchActivity.py:457
+#: VisualMatchActivity.py:648
+msgid "expert"
+msgstr "Tlamatketl"
+
+#: VisualMatchActivity.py:70 visualmatch.py:47
+msgid "New pattern game"
+msgstr "Yankuik awiltilli mochiwa"
+
+#: VisualMatchActivity.py:71 visualmatch.py:51
+msgid "New number game"
+msgstr "Yankuik awiltilli tlen powalli"
+
+#: VisualMatchActivity.py:72 visualmatch.py:55
+msgid "New word game"
+msgstr "Yankuik awiltilli ika tlajtolli"
+
+#: VisualMatchActivity.py:73 VisualMatchActivity.py:331
+msgid "Import custom cards"
+msgstr "Axkatl Ixmachiopanolli"
+
+#: VisualMatchActivity.py:75
+msgid "Dimensions"
+msgstr "dimensiones"
+
+#. TRANS: The prime number version of the dimensions game
+#: VisualMatchActivity.py:77
+msgid "Prime Dimensions"
+msgstr ""
+
+#. TRANS: The word version of the dimensions game
+#: VisualMatchActivity.py:79
+msgid "Word Dimensions"
+msgstr ""
+
+#: VisualMatchActivity.py:80
+msgid "15 seconds"
+msgstr "15 pilkawitsitsin"
+
+#: VisualMatchActivity.py:80
+msgid "30 seconds"
+msgstr "30 pilkawitsitsin"
+
+#: VisualMatchActivity.py:80
+msgid "1 minute"
+msgstr "1 kawiltsitsin"
+
+#: VisualMatchActivity.py:80
+msgid "2 minutes"
+msgstr "2 kawiltsitsin"
+
+#: VisualMatchActivity.py:80
+msgid "5 minutes"
+msgstr "5 kawiltsitsin"
+
+#: VisualMatchActivity.py:135
+msgid "Play with the computer."
+msgstr "wipanalawiltilli"
+
+#: VisualMatchActivity.py:140
+msgid "Stop playing with the computer."
+msgstr "Moketsas wipanalawiltilli."
+
+#: VisualMatchActivity.py:224 visualmatch.py:173
+msgid "mouse"
+msgstr "Mitl/kimichin"
+
+#: VisualMatchActivity.py:225 visualmatch.py:173
+msgid "cat"
+msgstr "Miston"
+
+#: VisualMatchActivity.py:226 visualmatch.py:173
+msgid "dog"
+msgstr "Chichi"
+
+#: VisualMatchActivity.py:227 visualmatch.py:174
+msgid "cheese"
+msgstr "Chiitetetstli"
+
+#: VisualMatchActivity.py:228 visualmatch.py:174
+msgid "apple"
+msgstr "Manzana"
+
+#: VisualMatchActivity.py:229 visualmatch.py:174
+msgid "bread"
+msgstr "pan"
+
+#: VisualMatchActivity.py:230 visualmatch.py:175
+msgid "moon"
+msgstr "Métstli"
+
+#: VisualMatchActivity.py:231 visualmatch.py:175
+msgid "sun"
+msgstr "Tonal"
+
+#: VisualMatchActivity.py:232 visualmatch.py:175
+msgid "earth"
+msgstr "Tlaltekpaktli"
+
+#: VisualMatchActivity.py:303 VisualMatchActivity.py:635
+msgid "Export scores to clipboard"
+msgstr "Amapialchiwalli tlen motitlani"
+
+#: VisualMatchActivity.py:327 VisualMatchActivity.py:629
+msgid "Edit word lists."
+msgstr "Tlajtoltekpanmiakilli"
+
+#: VisualMatchActivity.py:338 VisualMatchActivity.py:653
+msgid "product"
+msgstr "Tlachiwalli"
+
+#: VisualMatchActivity.py:346 VisualMatchActivity.py:654
+msgid "Roman numerals"
+msgstr "RRomanopowalli"
+
+#: VisualMatchActivity.py:354 VisualMatchActivity.py:655
+msgid "word"
+msgstr "Tlajtolli"
+
+#: VisualMatchActivity.py:362 VisualMatchActivity.py:656 visualmatch.py:105
+msgid "Chinese"
+msgstr "chino"
+
+#: VisualMatchActivity.py:370 VisualMatchActivity.py:657 visualmatch.py:109
+msgid "Mayan"
+msgstr "maya"
+
+#: VisualMatchActivity.py:378 VisualMatchActivity.py:658 visualmatch.py:113
+msgid "Quipu"
+msgstr "quipu"
+
+#: VisualMatchActivity.py:389 VisualMatchActivity.py:659
+msgid "hash marks"
+msgstr "Ketsalli"
+
+#: VisualMatchActivity.py:397 VisualMatchActivity.py:660
+msgid "dots in a circle"
+msgstr "Tsipin ipan malakachtli"
+
+#: VisualMatchActivity.py:405 VisualMatchActivity.py:661
+msgid "points on a star"
+msgstr "Sitlaltejtentli"
+
+#: VisualMatchActivity.py:413 VisualMatchActivity.py:662
+msgid "dice"
+msgstr "Najnajtetomitl"
+
+#: VisualMatchActivity.py:421 VisualMatchActivity.py:663
+msgid "dots in a line"
+msgstr "Tsipin ipan wasantli"
+
+#: VisualMatchActivity.py:429 VisualMatchActivity.py:644
+msgid "Play with the computer"
+msgstr "Wipanalli ika mawiltiaj"
+
+#: VisualMatchActivity.py:466
+msgid "Find a match."
+msgstr "Sepanolli"
+
+#: VisualMatchActivity.py:469 game.py:838 game.py:952
+msgid "cards"
+msgstr "Ixmachiotl"
+
+#: VisualMatchActivity.py:472 game.py:965 game.py:967
+msgid "matches"
+msgstr "Tlajtlapanyotl"
+
+#: VisualMatchActivity.py:599
+msgid "A new game is loading."
+msgstr "Motlamamaltia se yankuik awiltilli"
+
+#: VisualMatchActivity.py:628 VisualMatchActivity.py:669
+msgid "Tools"
+msgstr "Tlamantli"
+
+#: VisualMatchActivity.py:630
+msgid "Import image cards"
+msgstr "Ixkopintli ixmachiotl axkakowas"
+
+#: VisualMatchActivity.py:639 VisualMatchActivity.py:667
+msgid "Game"
+msgstr "Awiltilli"
+
+#: VisualMatchActivity.py:645
+msgid "robot pause time"
+msgstr "Seltsinnemilli tlenkawitlmoketsa"
+
+#: VisualMatchActivity.py:652 VisualMatchActivity.py:668
+msgid "Numbers"
+msgstr "Powalli"
+
+#: VisualMatchActivity.py:670
+msgid "number of cards remaining in deck"
+msgstr "Amanejtolpowalli tlen temakan ipan tolomitl"
+
+#: VisualMatchActivity.py:671
+msgid "number of matches"
+msgstr "Sepamitl tlen powalli"
+
+#: VisualMatchActivity.py:672
+msgid "elapsed time"
+msgstr "Tlen panotok kawitl"
+
+#: constants.py:71
+msgid "five"
+msgstr "Makuilli"
+
+#: constants.py:71
+msgid "seven"
+msgstr "Chikome"
+
+#: constants.py:71
+msgid "eleven"
+msgstr "Majtlaktli wan se"
+
+#: constants.py:71
+msgid "ten"
+msgstr "Majtlaktli"
+
+#: constants.py:72
+msgid "fourteen"
+msgstr "Majtlaktli wan nawi"
+
+#: constants.py:72
+msgid "fifteen"
+msgstr "Kaxtolli"
+
+#: constants.py:72
+msgid "twenty two"
+msgstr "Sempowalli wan ome"
+
+#: constants.py:73
+msgid "twenty one"
+msgstr "Sempowalli wan se"
+
+#: constants.py:73
+msgid "thirty three"
+msgstr "Sempowalli wan majtlaktli wan eyi"
+
+#: game.py:356
+msgid "Edit the custom cards."
+msgstr "Momiakilis ixmachiotl ajaxkayotl"
+
+#: game.py:384
+msgid "Edit the word cards."
+msgstr "Momiakilis ixmachiotl tlen tlajtlajtolli"
+
+#: game.py:752
+msgid "Game over"
+msgstr "Itlamiyan tlitl"
+
+#: game.py:765
+msgid "unsolvable"
+msgstr "Amo mokualtilij"
+
+#: game.py:796
+msgid "New record"
+msgstr "Yankuik tlatlanilli"
+
+#: game.py:958 game.py:960
+msgid "match"
+msgstr "Tlapanyotl"
+
+#: game.py:1203
+msgid "New custom game"
+msgstr "Yankuik awiltilli tlatamachiwalli"
+
+#: helpbutton.py:47
+msgid "Help"
+msgstr "Palewilli"
+
+#: visualmatch.py:34
+msgid "Click on cards to create sets of three."
+msgstr "Pacho ipan ixmachiotl mochiwas ejeyi nejchikolli"
+
+#: visualmatch.py:38
+msgid "Toggle level"
+msgstr "Mopatlas ajkotilli"
+
+#: visualmatch.py:64
+msgid "Robot on/off"
+msgstr "Tlati/rewis seltsinnemilli"
+
+#: visualmatch.py:68
+msgid "90 sec."
+msgstr "90 pilkawitsitsin"
+
+#: visualmatch.py:72
+msgid "60 sec."
+msgstr "60 pilkawitsitsin"
+
+#: visualmatch.py:76
+msgid "45 sec."
+msgstr "45 pilkawitsitsin"
+
+#: visualmatch.py:80
+msgid "30 sec."
+msgstr "30 pilkawitsitsin"
+
+#: visualmatch.py:84
+msgid "15 sec."
+msgstr "15 pilkawitsitsin"
+
+#: visualmatch.py:93
+msgid "Product"
+msgstr "Tlachiwalli"
+
+#: visualmatch.py:97
+msgid "Roman"
+msgstr "Romano"
+
+#: visualmatch.py:101
+msgid "Word"
+msgstr "Tlajtolli"
+
+#: visualmatch.py:117
+msgid "Hash"
+msgstr "Ketsalli"
+
+#: visualmatch.py:121
+msgid "Dice"
+msgstr "najnajtetomitl"
+
+#: visualmatch.py:125
+msgid "Dots"
+msgstr "puntos"
+
+#: visualmatch.py:129
+msgid "Star"
+msgstr "citlatli"
+
+#: visualmatch.py:133
+msgid "Lines"
+msgstr "wasantli"

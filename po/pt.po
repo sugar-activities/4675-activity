@@ -1,0 +1,403 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-05 22:11-0400\n"
+"PO-Revision-Date: 2013-12-14 20:48+0200\n"
+"Last-Translator: Eduardo H. <hoboprimate@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#. TRANS: "name" option from activity.info file
+#. TRANS: Please translate Visual Match as Dimensions
+#: VisualMatchActivity.py:634 VisualMatchActivity.py:666 game.py:983
+#: visualmatch.py:33
+msgid "Visual Match"
+msgstr "Combinar Visualmente"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid "a pattern-matching game"
+msgstr "Um jogo de combinações de padrões"
+
+#: VisualMatchActivity.py:59 VisualMatchActivity.py:441
+#: VisualMatchActivity.py:646
+msgid "beginner"
+msgstr "iniciante"
+
+#: VisualMatchActivity.py:59 VisualMatchActivity.py:449
+#: VisualMatchActivity.py:647
+msgid "intermediate"
+msgstr "intermédio"
+
+#: VisualMatchActivity.py:59 VisualMatchActivity.py:457
+#: VisualMatchActivity.py:648
+msgid "expert"
+msgstr "experiente"
+
+#: VisualMatchActivity.py:70 visualmatch.py:47
+msgid "New pattern game"
+msgstr "Novo jogo de padrões"
+
+#: VisualMatchActivity.py:71 visualmatch.py:51
+msgid "New number game"
+msgstr "Novo jogo de números"
+
+#: VisualMatchActivity.py:72 visualmatch.py:55
+msgid "New word game"
+msgstr "Novo de jogo de palavras"
+
+#: VisualMatchActivity.py:73 VisualMatchActivity.py:331
+msgid "Import custom cards"
+msgstr "Importar cartas personalizadas"
+
+#: VisualMatchActivity.py:75
+msgid "Dimensions"
+msgstr "Dimensões"
+
+#. TRANS: The prime number version of the dimensions game
+#: VisualMatchActivity.py:77
+msgid "Prime Dimensions"
+msgstr "Dimensões Primos"
+
+#. TRANS: The word version of the dimensions game
+#: VisualMatchActivity.py:79
+msgid "Word Dimensions"
+msgstr "DImensões Palavras"
+
+#: VisualMatchActivity.py:80
+msgid "15 seconds"
+msgstr "15 segundos"
+
+#: VisualMatchActivity.py:80
+msgid "30 seconds"
+msgstr "30 segundos"
+
+#: VisualMatchActivity.py:80
+msgid "1 minute"
+msgstr "1 minuto"
+
+#: VisualMatchActivity.py:80
+msgid "2 minutes"
+msgstr "2 minutos"
+
+#: VisualMatchActivity.py:80
+msgid "5 minutes"
+msgstr "5 minutos"
+
+#: VisualMatchActivity.py:135
+msgid "Play with the computer."
+msgstr "Jogar contra o computador."
+
+#: VisualMatchActivity.py:140
+msgid "Stop playing with the computer."
+msgstr "Parar de jogar contra o computador."
+
+#: VisualMatchActivity.py:224 visualmatch.py:173
+msgid "mouse"
+msgstr "rato"
+
+#: VisualMatchActivity.py:225 visualmatch.py:173
+msgid "cat"
+msgstr "gato"
+
+#: VisualMatchActivity.py:226 visualmatch.py:173
+msgid "dog"
+msgstr "cão"
+
+#: VisualMatchActivity.py:227 visualmatch.py:174
+msgid "cheese"
+msgstr "queijo"
+
+#: VisualMatchActivity.py:228 visualmatch.py:174
+msgid "apple"
+msgstr "maçã"
+
+#: VisualMatchActivity.py:229 visualmatch.py:174
+msgid "bread"
+msgstr "pão"
+
+#: VisualMatchActivity.py:230 visualmatch.py:175
+msgid "moon"
+msgstr "lua"
+
+#: VisualMatchActivity.py:231 visualmatch.py:175
+msgid "sun"
+msgstr "sol"
+
+#: VisualMatchActivity.py:232 visualmatch.py:175
+msgid "earth"
+msgstr "terra"
+
+#: VisualMatchActivity.py:303 VisualMatchActivity.py:635
+msgid "Export scores to clipboard"
+msgstr "Exportar pontuações para a área de transferência"
+
+#: VisualMatchActivity.py:327 VisualMatchActivity.py:629
+msgid "Edit word lists."
+msgstr "Editar listas de palavras."
+
+#: VisualMatchActivity.py:338 VisualMatchActivity.py:653
+msgid "product"
+msgstr "produto"
+
+#: VisualMatchActivity.py:346 VisualMatchActivity.py:654
+msgid "Roman numerals"
+msgstr "Números romanos"
+
+#: VisualMatchActivity.py:354 VisualMatchActivity.py:655
+msgid "word"
+msgstr "palavra"
+
+#: VisualMatchActivity.py:362 VisualMatchActivity.py:656 visualmatch.py:105
+msgid "Chinese"
+msgstr "Chinês"
+
+#: VisualMatchActivity.py:370 VisualMatchActivity.py:657 visualmatch.py:109
+msgid "Mayan"
+msgstr "Maia"
+
+#: VisualMatchActivity.py:378 VisualMatchActivity.py:658 visualmatch.py:113
+msgid "Quipu"
+msgstr "Quipu"
+
+#: VisualMatchActivity.py:389 VisualMatchActivity.py:659
+msgid "hash marks"
+msgstr "traços"
+
+#: VisualMatchActivity.py:397 VisualMatchActivity.py:660
+msgid "dots in a circle"
+msgstr "pontos num círculo"
+
+#: VisualMatchActivity.py:405 VisualMatchActivity.py:661
+msgid "points on a star"
+msgstr "pontos numa estrela"
+
+#: VisualMatchActivity.py:413 VisualMatchActivity.py:662
+msgid "dice"
+msgstr "dados"
+
+#: VisualMatchActivity.py:421 VisualMatchActivity.py:663
+msgid "dots in a line"
+msgstr "pontos numa linha"
+
+#: VisualMatchActivity.py:429 VisualMatchActivity.py:644
+msgid "Play with the computer"
+msgstr "Jogar com o computador"
+
+#: VisualMatchActivity.py:466
+msgid "Find a match."
+msgstr "Encontra uma correspondência."
+
+#: VisualMatchActivity.py:469 game.py:838 game.py:952
+msgid "cards"
+msgstr "cartas"
+
+#: VisualMatchActivity.py:472 game.py:965 game.py:967
+msgid "matches"
+msgstr "corresponde"
+
+#: VisualMatchActivity.py:599
+msgid "A new game is loading."
+msgstr "Um novo jogo está a carregar."
+
+#: VisualMatchActivity.py:628 VisualMatchActivity.py:669
+msgid "Tools"
+msgstr "Ferramentas"
+
+#: VisualMatchActivity.py:630
+msgid "Import image cards"
+msgstr "Importar cartas de imagens"
+
+#: VisualMatchActivity.py:639 VisualMatchActivity.py:667
+msgid "Game"
+msgstr "Jogo"
+
+#: VisualMatchActivity.py:645
+msgid "robot pause time"
+msgstr "tempo de pausa do robô"
+
+#: VisualMatchActivity.py:652 VisualMatchActivity.py:668
+msgid "Numbers"
+msgstr "Números"
+
+#: VisualMatchActivity.py:670
+msgid "number of cards remaining in deck"
+msgstr "Números de cartas restantes no maço"
+
+#: VisualMatchActivity.py:671
+msgid "number of matches"
+msgstr "número de correspondências"
+
+#: VisualMatchActivity.py:672
+msgid "elapsed time"
+msgstr "tempo decorrido"
+
+#: constants.py:71
+msgid "five"
+msgstr "cinco"
+
+#: constants.py:71
+msgid "seven"
+msgstr "sete"
+
+#: constants.py:71
+msgid "eleven"
+msgstr "onze"
+
+#: constants.py:71
+msgid "ten"
+msgstr "dez"
+
+#: constants.py:72
+msgid "fourteen"
+msgstr "catorze"
+
+#: constants.py:72
+msgid "fifteen"
+msgstr "quinze"
+
+#: constants.py:72
+msgid "twenty two"
+msgstr "vinte e dois"
+
+#: constants.py:73
+msgid "twenty one"
+msgstr "vinte e um"
+
+#: constants.py:73
+msgid "thirty three"
+msgstr "trinta e três"
+
+#: game.py:356
+msgid "Edit the custom cards."
+msgstr "Editar as cartas personalizadas."
+
+#: game.py:384
+msgid "Edit the word cards."
+msgstr "Editar as cartas de palavras."
+
+#: game.py:752
+msgid "Game over"
+msgstr "Fim de jogo"
+
+#: game.py:765
+msgid "unsolvable"
+msgstr "sem solução"
+
+#: game.py:796
+msgid "New record"
+msgstr "Novo recorde"
+
+#: game.py:958 game.py:960
+msgid "match"
+msgstr "corresponder"
+
+#: game.py:1203
+msgid "New custom game"
+msgstr "Novo jogo personalizado"
+
+#: helpbutton.py:47
+msgid "Help"
+msgstr "Ajuda"
+
+#: visualmatch.py:34
+msgid "Click on cards to create sets of three."
+msgstr "Clica nas cartas para fazer conjuntos de três."
+
+#: visualmatch.py:38
+msgid "Toggle level"
+msgstr "Escolhe nível"
+
+#: visualmatch.py:64
+msgid "Robot on/off"
+msgstr "Robô ligado/desligado"
+
+#: visualmatch.py:68
+msgid "90 sec."
+msgstr "90 seg."
+
+#: visualmatch.py:72
+msgid "60 sec."
+msgstr "60 seg."
+
+#: visualmatch.py:76
+msgid "45 sec."
+msgstr "45 seg."
+
+#: visualmatch.py:80
+msgid "30 sec."
+msgstr "30 seg."
+
+#: visualmatch.py:84
+msgid "15 sec."
+msgstr "15 seg."
+
+#: visualmatch.py:93
+msgid "Product"
+msgstr "Produto"
+
+#: visualmatch.py:97
+msgid "Roman"
+msgstr "Romanos"
+
+#: visualmatch.py:101
+msgid "Word"
+msgstr "Palavras"
+
+#: visualmatch.py:117
+msgid "Hash"
+msgstr "Traços"
+
+#: visualmatch.py:121
+msgid "Dice"
+msgstr "Dados"
+
+#: visualmatch.py:125
+msgid "Dots"
+msgstr "Pontos"
+
+#: visualmatch.py:129
+msgid "Star"
+msgstr "Estrela"
+
+#: visualmatch.py:133
+msgid "Lines"
+msgstr "Linhas"

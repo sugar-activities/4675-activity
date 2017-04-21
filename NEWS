@@ -1,0 +1,324 @@
+55
+
+* New translations
+
+53
+
+* Fix license text
+* New translations
+
+51
+
+* Add support for screen rotation
+* Make separate games for shapes, numbers, and words
+
+49
+
+* New translations
+
+47
+
+* New translations
+
+45
+
+* New translations
+
+43
+
+BUG FIX:
+* Fixed name change in radio button (#4028)
+
+41
+
+ENHANCEMENTS:
+* GTK-3 version
+* Added summary to activity.info
+* Added support for touch
+
+39
+
+BUG FIX:
+* Closing the Welcome message clicks on a card too (#3567)
+* Sometimes cards disappear (#3568)
+* Detect and correct race condition (#3579)
+(Thanks to Manuel Kaufmann for help tracking down these bugs)
+
+38
+
+ENHANCEMENTS:
+* New translations
+* Add stop button to help animation
+
+BUG FIX:
+http://dev.laptop.org/ticket/11804
+* Refactoring of animation to use less memory
+* Refactoring of deck to use less memory
+
+37
+
+BUG FIX:
+* Fixed typo that prevented help animation from terminating
+
+ENHANCEMENT:
+* Autoadvance levels when play improves
+
+36
+
+ENHANCEMENTS:
+* Support for dragging cards
+* Visual feedback on mismatches
+* Cursor when editing cards
+* New help animation on first load
+* Copy scores to clipboard (for import into Simple Graph)
+* Notification when loading new games
+* Slight delay after match before dealing new cards to allow for some
+  scrutiny of results
+* Addition of toolbar help menus
+* Rebranding as Dimensions (a more apt name)
+* Updated wiki page (See http://wiki.sugarlabs.org/go/Activities/Dimensions)
+* New translations
+(Tip of the hat to Mark Battley for great feedback and suggestions.)
+
+35
+
+ENHANCEMENTS:
+* New translations
+
+34
+
+ENHANCEMENTS:
+* New translations
+
+BUG FIX:
+* Fixed problem with animated cards missing destinations
+
+33
+
+ENHANCEMENTS:
+* New translations
+* New end-of-game graphics
+
+32
+
+ENHANCEMENT:
+* Using Cairo graphics
+* Animate loading of new cards
+
+BUG FIX:
+* Set robot time during "attract mode"
+
+31
+
+ENHANCEMENT:
+* Animate matches when moving to discard pile
+
+BUG FIX:
+* FIx GPLv3 license address
+
+30
+
+ENHANCEMENTS:
+* Switching buttons to radio buttons
+* More button icon refactoring
+
+29
+
+ENHANCEMENT:
+* "Standardized" icons
+
+28
+
+ENHANCEMENT:
+* Added "attract mode" on first launch
+
+27
+
+ENHANCEMENTS:
+* Smiley-face "reward" for finishing a game
+* Improved workflow for importing custom cards
+
+BUG FIXES:
+* Work around datastore.find issue on 0.84 builds
+* Work around chooser issues with old Sugar builds (#2398)
+
+26
+
+ENHANCEMENT:
+* Import custom cards from Journal
+
+25
+
+ENHANCEMENTS:
+* Quipu number game
+* Optimization of sprite refresh
+
+24
+
+ENHANCEMENTS:
+* Added beginner level
+* Detect unsolvable game-play situations
+
+23
+
+BUG FIXES:
+* Byron Corrales fixed the robot/word-edit conflict (#2057)
+* General code cleanup
+
+22
+
+BUG FIX:
+* Fixed SVG bug in old Sugar builds
+
+21
+
+BUG FIXES:
+* general clean up of sprite library
+* updated licenses
+
+20
+
+ENHANCEMENT:
+* Added more combinations to the dice game, e.g., 5=4+1, 5=3+2
+
+BUG FIXES:
+* Fixed bug in sprite library
+* Using refactored card generator
+
+19
+
+BUG FIXES:
+* Fixed bug with Mayan 33
+* Cleaned up some icons that had SVG problems on old Sugar builds
+
+18
+
+ENHANCEMENTS:
+* Word-game lists can be edited
+* Mayan number game
+* "Fileless" SVG generation
+
+BUG FIX:
+* Fixed SVG problem on old Sugar builds
+
+17
+
+BUG FIXES:
+* Fixed Class problem with command-line version
+* Cleaned up license language (GPL v3)
+
+16
+
+ENHANCEMENTS:
+* Simple sharing/collaborating
+* Save/resume from Journal 
+* New (improved?) toolbar layout
+* Match-history animation at end game
+
+BUG FIX:
+* Fixed bug preventing play on old Sugar instances
+
+15
+
+ENHANCEMENTS:
+* Added low/high levels for game play
+* New activity icon
+
+14
+
+ENHANCEMENT:
+* Computer assistant
+
+13
+
+ENHANCEMENT:
+* More number games
+
+12
+
+ENHANCEMENTS:
+* Reverting to three colors to simplify game play
+* Experimenting with different number-game card styles
+* Adding bold and italic to word cards
+* Consolidate grid after dealing extra cards
+* Refactoring of sprites library
+
+11
+
+BUG FIXES:
+* Add check for match on first deal
+* Fixed bug in extra card positions
+
+10
+
+ENHANCEMENTS:
+* es, fr translation
+* Rotated cards to enable larger/longer text strings
+
+BUG FIX:
+* Cleaned up match logic for word games
+
+9
+
+ENHANCEMENTS:
+* Auto-deal of extra cards when needed
+* Added glue for launching outside of Sugar
+* Save "low score" to Journal
+* Added numbers and words games
+* Autogenerate cards on the fly
+* Minutes:seconds display for total time
+* General code cleanup
+
+8
+
+ENHANCEMENT:
+* Added unselect
+
+BUG FIX:
+* Fixed bug in new game labels
+
+7
+
+ENHANCEMENTS:
+* More distinct colors on cards
+* Count seconds between matches
+* Detect game over
+* Automatically deals extra cards when necessary
+
+6
+
+BUG FIX:
+* Fixed card selection bug
+
+5
+
+ENHANCEMENT:
+* Added search function
+
+4
+
+ENHANCEMENT:
+* Add 3 cards when you get stuck
+
+3
+
+ENHANCEMENTS:
+* Eliminate naming alert from pre-0.86 toolbar
+* New .pot file
+
+2
+
+ENHANCEMENT:
+* New icon
+
+BUG FIX:
+* Fixed problem with the New Game button
+
+1
+
+* Version 1 of a visual matching game. The object is to find sets of
+  three cards where each attribute—color, shape, number of elements,
+  and shading—either match on all three cards or are different on all
+  three cards. Version 1 doesn't yet support sharing with multiple
+  players or saving to the Journal, but it can be played by a single
+  player.
